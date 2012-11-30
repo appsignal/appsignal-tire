@@ -7,8 +7,8 @@ task :default do
 end
 
 task :publish do
-  NAME = 'appsignal'
-  VERSION_FILE = 'lib/appsignal/version.rb'
+  NAME = 'appsignal-tire'
+  VERSION_FILE = 'lib/appsignal_tire/version.rb'
 
   unless ENV['EDITOR']
     raise "$EDITOR should be set to an editor\n"\
@@ -39,7 +39,7 @@ task :publish do
   end
 
   def gem_version
-    Appsignal::VERSION
+    Appsignal::Tire::VERSION
   end
 
   def version
