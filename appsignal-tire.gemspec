@@ -19,6 +19,7 @@ Gem::Specification.new do |s|
 
   s.require_path  = 'lib'
 
+  s.add_dependency 'appsignal', '~>0'
   s.add_dependency 'tire', '~>0.4.0'
   s.add_dependency 'active_support', '~>3.0.0'
 
