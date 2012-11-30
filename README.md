@@ -1,4 +1,4 @@
-[Appsignal](https://www.appsignal.com) Tire
+[Appsignal](http://appsignal.com) Tire
 ===============
 
 This gem adds query instrumentation to your Tire (ElasticSearch) queries.
