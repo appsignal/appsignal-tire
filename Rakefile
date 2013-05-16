@@ -8,7 +8,7 @@ end
 
 task :publish do
   NAME = 'appsignal-tire'
-  VERSION_FILE = 'lib/appsignal_tire/version.rb'
+  VERSION_FILE = 'lib/appsignal-tire/version.rb'
 
   unless ENV['EDITOR']
     raise "$EDITOR should be set to an editor\n"\

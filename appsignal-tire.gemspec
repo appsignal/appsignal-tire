@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path('../lib', __FILE__)
-require 'appsignal_tire/version'
+require 'appsignal-tire/version'
 
 Gem::Specification.new do |s|
   s.name          = 'appsignal-tire'

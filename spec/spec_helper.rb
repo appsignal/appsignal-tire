@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'active_support/notifications'
-require 'appsignal_tire'
+require 'appsignal-tire'
 
 require 'pry'
 
