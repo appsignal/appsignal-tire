@@ -8,9 +8,10 @@ used for the Elasticsearch search engine/database.
 For more information, visit:
 
 * [AppSignal website](http://appsignal.com)
-* [AppSignal client gem](https://github.com/80beans/appsignal)
+* [AppSignal docs](http://docs.appsignal.com/tweaks-in-your-code/integration-gems.html)
+* [AppSignal client gem](https://github.com/appsignal/appsignal)
 
 Licence
 =======
 
-See [LICENCE](https://github.com/80beans/appsignal-redis/blob/master/LICENSE)
+See [LICENCE](https://github.com/appsignal/appsignal-tire/blob/master/LICENSE)
