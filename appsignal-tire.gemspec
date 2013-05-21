@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.authors       = ['Thijs Cadier', 'Steven Weller']
   s.email         = %w{contact@appsignal.com}
 
-  s.homepage      = 'https://github.com/80beans/appsignal-tire'
+  s.homepage      = 'https://github.com/appsignal/appsignal-tire'
   s.summary       = 'Add instrument calls to tire queries '\
                     'made with Tire. For use with Appsignal.'
   s.description   = 'Wrap all Tire queries with'\
