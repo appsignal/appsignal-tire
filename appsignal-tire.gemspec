@@ -10,6 +10,7 @@ Gem::Specification.new do |s|
   s.email         = %w{contact@appsignal.com}
 
   s.homepage      = 'https://github.com/appsignal/appsignal-tire'
+  s.license       = 'MIT'
   s.summary       = 'Add instrument calls to tire queries '\
                     'made with Tire. For use with Appsignal.'
   s.description   = 'Wrap all Tire queries with'\
