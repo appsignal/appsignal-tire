@@ -20,8 +20,8 @@ Gem::Specification.new do |s|
 
   s.require_path  = 'lib'
 
-  s.add_dependency 'appsignal', '>= 0.5'
-  s.add_dependency 'tire', '>= 0.3'
+  s.add_dependency 'appsignal', '> 0.7'
+  s.add_dependency 'tire', '> 0.3'
 
   s.add_development_dependency 'rake'
   s.add_development_dependency 'rspec'
