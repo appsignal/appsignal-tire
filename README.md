@@ -1,6 +1,8 @@
 AppSignal Tire
 ==============
 
+Only use this gem in combination with 0.x versions of the `appsignal` gem! It is not compatible with 1.0+.
+
 `appsignal-tire` allows AppSignal clients to gain insight in search/database
 queries that use the [Tire](https://github.com/karmi/tire) driver,
 used for the Elasticsearch search engine/database.
